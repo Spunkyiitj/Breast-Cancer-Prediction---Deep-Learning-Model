@@ -36,16 +36,6 @@ The model is trained on the **Breast Cancer Wisconsin dataset** and achieves **~
 - Scikit-learn  
 - NumPy  
 
----
-
-## 🧪 Model Architecture
-A simple **Feedforward Neural Network**:
-
-
-
-
-
-
 
 
 ---
